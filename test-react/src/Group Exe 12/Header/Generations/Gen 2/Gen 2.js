@@ -1,9 +1,9 @@
-const Gen2 = () => {
+const Card_Info = () => {
   return (
     <div>
-      <h1>Gen2</h1>
+      <h1>Card_Info</h1>
     </div>
   );
 };
 
-export default Gen2;
+export default Card_Info;
